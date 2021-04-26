@@ -3,3 +3,4 @@ Patatas
 Huevo
 Aceite
 Sal
+chorizo
