@@ -3,6 +3,7 @@ Patatas
 Huevo
 Aceite
 Sal
-chorizo
+//Ingrediente quitado por Angel
+Chorizo
 // añadido ingredidente Rocio 
 - Ajos
