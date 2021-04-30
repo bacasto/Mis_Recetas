@@ -4,3 +4,5 @@ Huevo
 Aceite
 Sal
 chorizo
+// añadido ingredidente Rocio 
+- Ajos
